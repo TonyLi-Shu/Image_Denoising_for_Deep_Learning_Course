@@ -11,8 +11,6 @@ https://ieeexplore.ieee.org/document/9937486
 3) **SwinIR** - Swin-Transformer Image Restoration
 https://arxiv.org/abs/2108.10257
 
-With Layer Visualization
-
 ## 1. Data set process
 
 Find data set from the DIV2K and Flickr2K for training set 
